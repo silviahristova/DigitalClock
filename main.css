@@ -1,0 +1,18 @@
+.clock {
+    background: rgb(222, 184, 135);
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.clock-time,
+.clock-amPm{
+    font-family: 'Supermercado One', cursive;
+    font-size: 30px;
+    color: rgb(107, 82, 50);
+}
+
+.clock-time{
+    font-size: 48px;
+}
